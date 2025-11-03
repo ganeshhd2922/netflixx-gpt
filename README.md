@@ -1,22 +1,34 @@
 # Netflix GPT
 
--Create React App
--Configured TailwindCSS
--Header
--Login Form
--Sign up Form
+- Create React App
+- Configured TailwindCSS
+- Header
+- Routing of app
+- Login Form
+- Sign up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+- Implement Sign In user API
+- Created Redux Store with userSlice
+- Implemented Sign out
+- Update Profile
+
+
 
 #Features
 - Login/Sign Up
      - Sign In/Sign up Form
      - redirect to Browse Page
--Browse (after authentication)
+- Browse (after authentication)
      - Header
      - Main Movie
            - Trailer in Background
            - Title & Description
            - MovieSuggestions
                  - MovieLists * N
--NetflixGPT
+- NetflixGPT
      - Search Bar
      - Movie Suggestions                 
